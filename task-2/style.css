@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: "Roboto Condensed";
+}
+.container{
+    color: #fff;
+    text-transform: uppercase;
+    padding: 64px 110px;
+    display: flex;
+    justify-content: space-around;
+    background: #161722;
+}
+.footer-list{
+    list-style-type: none;
+}
+.box-3{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    gap:  20px;
+}
+
+.footer-list-item{
+    padding: 24px 0;
+}
+.footer-list-item-icon{
+    padding: 40px 0;
+}
+.email-input{
+
+    background: #161722;
+    border: 1px solid #fff;
+}
+.footer-box-subscribe{
+    display: flex;
+
+}
